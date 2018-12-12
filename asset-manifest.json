@@ -1,13 +1,13 @@
 {
-  "main.css": "/Coffee-React-App/static/css/main.4c7d5c3f.chunk.css",
-  "main.js": "/Coffee-React-App/static/js/main.3f141733.chunk.js",
-  "main.js.map": "/Coffee-React-App/static/js/main.3f141733.chunk.js.map",
-  "static/js/1.e130c10b.chunk.js": "/Coffee-React-App/static/js/1.e130c10b.chunk.js",
-  "static/js/1.e130c10b.chunk.js.map": "/Coffee-React-App/static/js/1.e130c10b.chunk.js.map",
-  "runtime~main.js": "/Coffee-React-App/static/js/runtime~main.0535c020.js",
-  "runtime~main.js.map": "/Coffee-React-App/static/js/runtime~main.0535c020.js.map",
-  "static/css/main.4c7d5c3f.chunk.css.map": "/Coffee-React-App/static/css/main.4c7d5c3f.chunk.css.map",
-  "index.html": "/Coffee-React-App/index.html",
-  "precache-manifest.0acdd3874594e6ddbcbd39317ef79897.js": "/Coffee-React-App/precache-manifest.0acdd3874594e6ddbcbd39317ef79897.js",
-  "service-worker.js": "/Coffee-React-App/service-worker.js"
+  "main.css": "/Coffee-App-React/static/css/main.4c7d5c3f.chunk.css",
+  "main.js": "/Coffee-App-React/static/js/main.b096a074.chunk.js",
+  "main.js.map": "/Coffee-App-React/static/js/main.b096a074.chunk.js.map",
+  "static/js/1.e130c10b.chunk.js": "/Coffee-App-React/static/js/1.e130c10b.chunk.js",
+  "static/js/1.e130c10b.chunk.js.map": "/Coffee-App-React/static/js/1.e130c10b.chunk.js.map",
+  "runtime~main.js": "/Coffee-App-React/static/js/runtime~main.5ed6530a.js",
+  "runtime~main.js.map": "/Coffee-App-React/static/js/runtime~main.5ed6530a.js.map",
+  "static/css/main.4c7d5c3f.chunk.css.map": "/Coffee-App-React/static/css/main.4c7d5c3f.chunk.css.map",
+  "index.html": "/Coffee-App-React/index.html",
+  "precache-manifest.717ab73f93e240e84d8daec1279846d9.js": "/Coffee-App-React/precache-manifest.717ab73f93e240e84d8daec1279846d9.js",
+  "service-worker.js": "/Coffee-App-React/service-worker.js"
 }

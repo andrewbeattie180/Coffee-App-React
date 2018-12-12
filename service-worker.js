@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Coffee-React-App/precache-manifest.0acdd3874594e6ddbcbd39317ef79897.js"
+  "/Coffee-App-React/precache-manifest.717ab73f93e240e84d8daec1279846d9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Coffee-React-App/index.html", {
+workbox.routing.registerNavigationRoute("/Coffee-App-React/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
